@@ -2,7 +2,6 @@
 #! python3
 import os
 import sys
-# vyrvořil: Jan Buchmaier V2A
 file = sys.argv[0]
 are = False
 for i in file:
